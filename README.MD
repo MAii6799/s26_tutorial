@@ -4,4 +4,5 @@
 - [auto_aim](./auto_aim/README.md)
 - [camera](./camera/camera_and_colib.md)
 - [kalaman](./kalman_filter/kalman_filter.md)
+- [armor_detection](./armor_detection/)
 - *TBD*
